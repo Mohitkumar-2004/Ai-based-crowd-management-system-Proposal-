@@ -1,2 +1,2 @@
-# Ai-based-crowd-management-system-Proposal-
+# Crowd mangement -
 "AI-powered crowd detection and alert system"(Proposal)
